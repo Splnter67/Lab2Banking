@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (Lab1-Banking.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  C21-LAB-2-Base.cpp
+  Lab1-Banking.vcxproj -> C:\Users\2164752\source\repos\Lab1-Banking\x64\Debug\Lab2-Banking.exe
